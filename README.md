@@ -13,7 +13,8 @@ Mysql模块，cache缓存，系统logger，base64模块，Mail模块，Language�
 一个轻量级MVC小型web框架。
 
 
-<hr>
+<br>
+
 
 ## Config
 
@@ -50,7 +51,7 @@ nginx下推荐lnmp一键安装。安装后需要添加nginx路由重写规则。
 		return 403;
 	}
 
-<hr>
+<br>
 	
 ### Apache
 
@@ -68,19 +69,19 @@ Apache需要添加路由重写.htaccess功能，在http.d中配置。
 	Allow from all
 
 
-<hr>
+<br>
 
 ## Usage
 
 详细见事例。
 
-<hr>
+<br>
 
 ## Version
 
 14.11.20 
 
-<hr>
+<br>
 
 ## Release
 
@@ -96,7 +97,7 @@ Apache需要添加路由重写.htaccess功能，在http.d中配置。
 
 (The MIT License)
 
-Copyright (c) 2014 Homeway.yao
+Copyright (c) 2014  [http://homeway.me](http://homeway.me)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the 'Software'), to deal in
@@ -107,10 +108,3 @@ subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
